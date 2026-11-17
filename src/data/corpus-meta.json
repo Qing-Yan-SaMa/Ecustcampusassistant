@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-11-12T12:19:58.007Z",
+  "stats": {
+    "docs": 244,
+    "chunks": 653,
+    "accounts": 16,
+    "dateMin": "2026-10-20",
+    "dateMax": "2026-11-12"
+  },
+  "accounts": [
+    {
+      "name": "社想",
+      "count": 102
+    },
+    {
+      "name": "iConnect信院互联",
+      "count": 83
+    },
+    {
+      "name": "华理材院",
+      "count": 70
+    },
+    {
+      "name": "华理法学院",
+      "count": 54
+    },
+    {
+      "name": "华理体育",
+      "count": 53
+    },
+    {
+      "name": "机动小齿轮",
+      "count": 48
+    },
+    {
+      "name": "华理外语",
+      "count": 43
+    },
+    {
+      "name": "花梨心晴",
+      "count": 40
+    },
+    {
+      "name": "谈百草",
+      "count": 34
+    },
+    {
+      "name": "华理艺设",
+      "count": 27
+    },
+    {
+      "name": "华理物院",
+      "count": 26
+    },
+    {
+      "name": "华理数学学院",
+      "count": 26
+    },
+    {
+      "name": "华理小蜜蜂",
+      "count": 24
+    },
+    {
+      "name": "华东理工大学图书馆",
+      "count": 14
+    },
+    {
+      "name": "平安华理",
+      "count": 6
+    },
+    {
+      "name": "化工青年集结地",
+      "count": 3
+    }
+  ],
+  "latest": [
+    {
+      "docId": "3076471831-3076471831_YSjvh2WylyeC-dUfyvOxeA",
+      "title": "薛舒作品阅读感悟分享（三）：自由地飞，稳稳地归",
+      "mp": "华东理工大学图书馆",
+      "date": "2026-11-12 00:01",
+      "ts": 1794412870,
+      "url": "https://mp.weixin.qq.com/s/YSjvh2WylyeC-dUfyvOxeA"
+    },
+    {
+      "docId": "3240602219-3240602219_yulsyVMyKYVUW~itcKJ-Qw",
+      "title": "树说·校园｜这瓜居然不能吃？",
+      "mp": "华理小蜜蜂",
+      "date": "2026-11-12 00:01",
+      "ts": 1794412861,
+      "url": "https://mp.weixin.qq.com/s/yulsyVMyKYVUW_itcKJ-Qw"
+    },
+    {
+      "docId": "3074895908-3074895908_nPpv0a6ZQvXFBhII5fCMXg",
+      "title": "青年联信|保研经验分享会干货回顾来啦！",
+      "mp": "iConnect信院互联",
+      "date": "2026-11-11 12:01",
+      "ts": 1794369673,
+      "url": "https://mp.weixin.qq.com/s/nPpv0a6ZQvXFBhII5fCMXg"
+    },
+    {
+      "docId": "3076471831-3076471831_VQLbps0GFmDOJYEDD-1Z5Q",
+      "title": "【讲座】智研前沿：Web of Science研究助手，高效助力文献调研",
+      "mp": "华东理工大学图书馆",
+      "date": "2026-11-11 12:01",
+      "ts": 1794369665,
+      "url": "https://mp.weixin.qq.com/s/VQLbps0GFmDOJYEDD-1Z5Q"
+    },
+    {
+      "docId": "3074895908-3074895908_doEH50FQSjfy--SSMb-OOg",
+      "title": "青春联谊｜“药”辨真伪，“信”网溯源，“法”定乾坤——联谊活动等你来参与！",
+      "mp": "iConnect信院互联",
+      "date": "2026-11-10 00:01",
+      "ts": 1794240074,
+      "url": "https://mp.weixin.qq.com/s/doEH50FQSjfy--SSMb-OOg"
+    },
+    {
+      "docId": "3076471831-3076471831_5EacxYhuI6SOctkFZphXLQ",
+      "title": "【BOOK思驿】30秒视频带你遇见一本好书——“读在潮头”畅销好书推荐（五）",
+      "mp": "华东理工大学图书馆",
+      "date": "2026-11-10 00:01",
+      "ts": 1794240066,
+      "url": "https://mp.weixin.qq.com/s/5EacxYhuI6SOctkFZphXLQ"
+    }
+  ]
+}
